@@ -1,0 +1,16 @@
+OrderID,Customer,Product,Category,Quantity,Price,City,Date
+101,Raj,Laptop,Electronics,2,50000,Delhi,2025-01-10
+102,Amit,Mouse,Electronics,3,800,Mumbai,2025-01-12
+103,Neha,Chair,Furniture,1,4000,Delhi,2025-01-15
+104,Priya,Table,Furniture,2,7000,Bangalore,2025-02-05
+105,Karan,Keyboard,Electronics,4,1500,Mumbai,2025-02-08
+106,Raj,Monitor,Electronics,1,12000,Delhi,2025-02-12
+107,Amit,Sofa,Furniture,1,25000,Bangalore,2025-03-01
+108,Neha,Laptop,Electronics,1,55000,Delhi,2025-03-10
+109,Priya,Mouse,Electronics,5,800,Mumbai,2025-03-15
+110,Karan,Desk,Furniture,1,10000,Delhi,2025-04-01
+111,Raj,Printer,Electronics,2,9000,Bangalore,2025-04-07
+112,Amit,Chair,Furniture,3,4000,Mumbai,2025-04-12
+113,Neha,Keyboard,Electronics,2,1500,Delhi,2025-05-05
+114,Priya,Monitor,Electronics,1,13000,Bangalore,2025-05-10
+115,Karan,Sofa,Furniture,1,27000,Mumbai,2025-05-18
